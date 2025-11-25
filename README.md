@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # one-acre project sanple1
 # one-acre project sanple2
-# one-acre project sanple3
+# one-acre project 
